@@ -76,7 +76,7 @@ endmodule
 
 
 # RESULTS:
-Thus the given experiment is completed successfully
+![image](https://github.com/arbasil05/ENCODER8TO3DATAFLOW/assets/144218037/db92d594-8fcc-4c2c-b694-feca6050ce08)
 
 
 
